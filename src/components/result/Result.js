@@ -7,9 +7,4 @@ import React from 'react';
       </div>
     );
   }
-
-  // Result.propTypes = {
-  //   quizResult: React.PropTypes.string.isRequired,
-  // };
-
   export default Result;
